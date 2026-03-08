@@ -18,6 +18,14 @@ Damn Vulnerable Web Application (DVWA)
 - DVWA
 - Command Prompt
 
+## Vulnerabilities Tested
+
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Command Injection
+- File Upload Vulnerability
+- Brute Force Attack
+
 ## Project Report
 The detailed VAPT report is available in this repository as **DVWA_VAPT_Report.pdf**.
 
