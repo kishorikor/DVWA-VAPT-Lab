@@ -18,5 +18,8 @@ Damn Vulnerable Web Application (DVWA)
 - DVWA
 - Command Prompt
 
+## Project Report
+The detailed VAPT report is available in this repository as **DVWA_VAPT_Report.pdf**.
+
 ## Disclaimer
 This project was conducted in a controlled lab environment using DVWA for educational purposes only.
